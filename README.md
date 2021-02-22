@@ -9,6 +9,6 @@
   * $chart `Ticker`
   
   
-<i>Example</i>
+<i>Example:</i>
 
 ![Capture](https://user-images.githubusercontent.com/33767581/108712427-bef49e80-74e4-11eb-85b0-cb713a8ff4ba.PNG)
